@@ -1,0 +1,5 @@
+create table store (id integer primary key, name text, price integer, clothing text, sale text);
+
+insert into clothing store values (1, dark jeans, $20, pants, no);
+
+
